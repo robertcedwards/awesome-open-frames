@@ -1,6 +1,6 @@
 # Awesome Open Frames
 
-Open Frames is an interoperable [standard](https://github.com/open-frames/standard) extending the original Frames specification to support a broader range of applications and protocols.
+Open Frames is an interoperable standard extending the original Frames specification to support a broader range of applications and protocols.
 
 > 💸 **Open Frames Bounty Program**
 >
@@ -20,12 +20,13 @@ Several Frames have already adopted the Open Frames standard, showcasing the ver
 
 - [Interactive Polls](https://github.com/xmtp-labs/fc-polls): Engage your audience with real-time polls.
 - [rock-paper-scissors](https://github.com/Unshut-Labs/xmtp-frame-rock-paper-scissors): Rock paper scissors game.
-- [farcaster-gallery](https://github.com/Nith567/far): Gallery farcaster.
 
 **others**
 
 - [Zora is a Magic Machine](https://paragraph.xyz/@zora/zora-magic-machine): Zora newsletter through Paragraph.
-
+- [Zurf-XMTP-OpenFrame](https://github.com/robertcedwards/Zurf-XMTP-OpenFrame/): Simple example of a XMTP compatible frame on Github Pages.
+- [Personal Link in Frame](https://github.com/robertcedwards/farcaster-frame-bio): Make your own Frame with your Bio info, includes a landing page template, fetches from https://web3.bio
+- [Purchase Custom Tees in a Frame](https://github.com/Luna-Music/LunaVibesTees): Learn and Purchase Custom Tees in a Frame + 🔵 Base checkout.
 ### Compatible messaging apps
 
 Open Frames is designed to be universally compatible, with support from a wide range of applications. Notably, it is compatible with:
@@ -36,17 +37,16 @@ Open Frames is designed to be universally compatible, with support from a wide r
 
 #### Tooling
 
-Given the interoperable nature of Open Frames, each protocol has its unique method for handling payloads, making these tools invaluable for integration:
-
-- [Frames.js](https://framesjs.org/reference/js/xmtp): Verify and sign XMTP payloads in XMTP with FramesJS
-- [OnChainKit](https://onchainkit.xyz/xmtp/introduction): Verify and sign XMTP payloads in XMTP with OnChainKit
-- [XMTP](https://xmtp.org/docs/build/frames): Verify and sign XMTP payloads in XMTP
+- [Frames.js](https://framesjs.org/reference/js/xmtp)
+- [OnChainKit](https://onchainkit.xyz/xmtp/introduction)
+- [XMTP](https://xmtp.org/docs/build/frames)
 
 ### Related Resources
 
 To get started with Open Frames or to learn more about the specification and its capabilities, check out the following resources:
 
 - [Open Frames Spec](https://github.com/open-frames/standard): The official specification document for Open Frames.
+- [Open Frames Bounty](/BOUNTY.md): Bounty details for making your frames Open Frame compatible.
 - [Awesome Frames](https://github.com/davidfurlong/awesome-frames?tab=readme-ov-file): Curated list of Frames resources.
 
 ---
@@ -76,5 +76,3 @@ And others: [Outcasters](https://outcasters.xyz) | [Onchain Letters](https://onc
 - [Converse](https://converse.xyz/)
 - [Framejs](https://framesjs.org/)
 - [Privy](https://privy.io/)
-- [Dynamic](https://www.dynamic.xyz/)
-- [Airstack](https://www.airstack.xyz/)
